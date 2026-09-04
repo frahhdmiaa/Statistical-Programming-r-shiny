@@ -1,6 +1,6 @@
 library(shiny)
 library(readxl)
-library(DT) 
+library(DT)
 library(ggplot2)
 
 function(input, output, session) {
@@ -2729,4 +2729,4 @@ function(input, output, session) {
       )
     }
   })
-  }
+}
